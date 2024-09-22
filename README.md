@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawansheriff&label=Profile%20views&color=0e75b6&style=flat" alt="rawansheriff" /> </p>
 
-- 🔭 I’m currently working on **Customer Churn Analysis**
+- 🔭 I’m currently working on **Data Exploration in SQL Project**
 
 - 🌱 I’m currently learning **Understanding Machine Learning Techniques, on DataCamp**
 
