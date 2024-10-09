@@ -1,6 +1,5 @@
 
-
-![MasterHead](https://github.com/user-attachments/assets/e8d29621-3fb7-4e79-9f4b-f4ad88c92e72](https://github.com/user-attachments/assets/e8d29621-3fb7-4e79-9f4b-f4ad88c92e72)
+![Header](https://github.com/user-attachments/assets/b44c4bdf-37cf-4bcf-86e8-78013feb6ab8)
 
 <h1 align="center">Hi there 👋, I'm Rawan</h1>
 <h3 align="center">A passionate data analyst exploring the world of data</h3>
