@@ -1,6 +1,7 @@
 
 
-![MasterHead](file:///C:/Users/user/Downloads/github-header-image.png)
+![MasterHead](![github-header-image](https://github.com/user-attachments/assets/e8d29621-3fb7-4e79-9f4b-f4ad88c92e72)
+
 <h1 align="center">Hi there 👋, I'm Rawan</h1>
 <h3 align="center">A passionate data analyst exploring the world of data</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/business-analytics-concept_987366-36413.jpg?w=996">
