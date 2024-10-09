@@ -3,7 +3,7 @@
 ![MasterHead](https://img.freepik.com/premium-photo/business-analytics-concept_987366-36413.jpg?w=996)
 <h1 align="center">Hi 👋, I'm Rawan</h1>
 <h3 align="center">A passionate data analyst exploring the world of data</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn-icons-mp4.flaticon.com/512/8121/8121313.mp4">
+<img align="right" alt="Coding" width="400" src="https://www.flaticon.com/free-sticker/graph_7246422">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawansheriff&label=Profile%20views&color=0e75b6&style=flat" alt="rawansheriff" /> </p>
 
