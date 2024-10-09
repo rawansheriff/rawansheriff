@@ -1,5 +1,5 @@
 
-![Header](https://github.com/user-attachments/assets/b44c4bdf-37cf-4bcf-86e8-78013feb6ab8)
+![MasterHeader](https://github.com/user-attachments/assets/b44c4bdf-37cf-4bcf-86e8-78013feb6ab8)
 
 <h1 align="center">Hi there 👋, I'm Rawan</h1>
 <h3 align="center">A passionate data analyst exploring the world of data</h3>
