@@ -1,8 +1,6 @@
 
-![Header](https://github.com/user-attachments/assets/b44c4bdf-37cf-4bcf-86e8-78013feb6ab8)
 <img src="https://github.com/user-attachments/assets/b44c4bdf-37cf-4bcf-86e8-78013feb6ab8" alt="Header" width="100%" />
 
-<h1 align="center">Hi there 👋, I'm Rawan</h1>
 <h3 align="center">A passionate data analyst exploring the world of data</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/business-analytics-concept_987366-36413.jpg?w=996">
 
