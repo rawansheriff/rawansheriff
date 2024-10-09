@@ -1,7 +1,7 @@
 
 
 ![MasterHead](https://images.unsplash.com/photo-1717501219008-5f436ead74d5?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-<h1 align="center">Hi 👋, I'm Rawan</h1>
+<h1 align="center">Hi there 👋, I'm Rawan</h1>
 <h3 align="center">A passionate data analyst exploring the world of data</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/business-analytics-concept_987366-36413.jpg?w=996">
 
@@ -12,11 +12,11 @@
 
 - 🌱 I’m currently learning **Understanding Machine Learning Techniques, on DataCamp**
 
-- 💬 Ask me about **SQL, Python, Excel, Tableau, Power BI**
+- 💬 Ask me about **SQL, Excel, Tableau, Power BI**
 
 - 📫 How to reach me **rawan.sherif.career@gmail.com**
 
-- ⚡ Fun fact **I enjoy turning messy data into beautiful visualizations—it’s like data art!**
+- ⚡ Fun fact **I enjoy turning messy data into beautiful visualizations—it’s like data art**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
