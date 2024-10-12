@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Data Exploration in SQL Project**
 
-- 🌱 I’m currently learning **Understanding Machine Learning Techniques, on DataCamp**
+- 🌱 I’m currently learning **SQL Reporting, on DataCamp**
 
 - 💬 Ask me about **SQL, Excel, Tableau, Power BI**
 
